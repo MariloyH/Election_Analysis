@@ -1,11 +1,11 @@
 # Election Audit Analysis
 ##  Overview
 We were hired to support Colorado Boards of Elections in the election of the Congressional precint in Colorado. The results must be the total number of votes, the total number of votes for each candidate, the percentage of votes of each candidate and the winner of the electoosn. Also  must present additional data to complete the audit:
-  -The voter turnout for each county     
-  -The percentage of votes from each county out of the total count
-  -The county with the highest turnout.
+the voter turnout for each county, the percentage of votes from each county out of the total count, the county with the highest turnout.
 The Client wants the Election results printed to the Comanda Line and Saved to a Text File. 
-## Election Audit Results 
+## Election Audit Results  
+We decided to do a Python program in order to have a general .....  The total votes are stored in a *.cvs file in the format: ID Ballot, County, Candidate voted.
+
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 1. How many votes were cast in this congressional election?  
    There was a total 369,711 votes.
