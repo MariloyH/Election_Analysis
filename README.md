@@ -1,4 +1,4 @@
-# Election Audit Analysis
+# Election Audit Analysis 
 ##  Overview
 We were hired to support Colorado Boards of Elections in the election of the Congressional precint in Colorado. The results must be the total number of votes, the total number of votes for each candidate, the percentage of votes of each candidate and the winner of the electoosn. Also  must present additional data to complete the audit:
 the voter turnout for each county, the percentage of votes from each county out of the total count, the county with the highest turnout.
