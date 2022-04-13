@@ -6,7 +6,7 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
 ## Election Audit Results  
   We will use Python instead excel or VBA because we will write algorithms to perform the analysis we had requested. We will begin reading the general list of votes, wich are stored in a cvs file in the format: ID Ballot, County, Candidate voted. This is an example of the final code: 
   
-![Total votes per County](Votes_x_County.png)
+![Total votes per County](VotesXCounty.png)
 
 ### Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 ### Results of the Congressional Election in Colorado State.
@@ -30,4 +30,4 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
     
 ## Election-Audit Summary: 
 We can conclude that the program we made for this problem can also be used for any vote count regardless of the position, since it only requires that the votes be stored in the same way as in this problem. As the program does not specify the position that is being chosen, we could ask the user to specify at the beginning the relevant information of the election, for example the position  and the year of election, and also we can specify the name and the location of the counting results file, in order that we can process it. 
-![] (Script_Modified_Any_Election.png) 
+![] (ScriptModifiedAnyElection.png) 
