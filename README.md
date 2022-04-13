@@ -29,7 +29,5 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
    **The Winner of the election was candidate Diana DeGette with 272,892 votes, 73.8% from the total votes.**
     
 ## Election-Audit Summary: 
-We can conclude that the program we made for this problem can also be used for any vote count regardless of the position, since it only requires that the votes be stored in the same way as in this problem. As the program does not specify the position that is being chosen, we could ask the user to specify in a capture the position that is being chosen and maybe the electoral district in order to identify it as the header of our results report.
-I propose thois
-
-Give at least two examples of how this script can be modified to be used for other elections.
+We can conclude that the program we made for this problem can also be used for any vote count regardless of the position, since it only requires that the votes be stored in the same way as in this problem. As the program does not specify the position that is being chosen, we could ask the user to specify at the beginning the relevant information of the election, for example the position  and the year of election, and also we can specify the name and the location of the counting results file, in order that we can process it. 
+![] (Script_Modified_Any_Election.png) 
