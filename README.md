@@ -8,7 +8,7 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
 ![Total votes per County](Votes_x_County.png)
 
 ### Results of the Congressional Election in Colorado State.
-    ![Election Results](ElectionResults.png) 
+    ![](ElectionResults.png) 
 
 ### Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 1. How many votes were cast in this congressional election?  
