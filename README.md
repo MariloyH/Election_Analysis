@@ -12,8 +12,7 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
 ### Results of the Congressional Election in Colorado State.
 ![Election Results](ElectionResults.png) 
 
-1. How many votes were cast in this congressional election? 
-2.  
+1. How many votes were cast in this congressional election?   
    **As we can observe, this votation received a total 369,711 votes.**
      
 2. Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -30,5 +29,7 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
    **The Winner of the election was candidate Diana DeGette with 272,892 votes, 73.8% from the total votes.**
     
 ## Election-Audit Summary: 
-We can conclude that the program made for this problem can also be used for any vote count regardless of the position, since it only requires that the votes be stored in the same way as in this problem. As the program does not specify the position that is being chosen, we could ask the user to specify in a capture the position that is being chosen in order to identify it as the header of our results report.
+We can conclude that the program we made for this problem can also be used for any vote count regardless of the position, since it only requires that the votes be stored in the same way as in this problem. As the program does not specify the position that is being chosen, we could ask the user to specify in a capture the position that is being chosen and maybe the electoral district in order to identify it as the header of our results report.
+I propose thois
+
 Give at least two examples of how this script can be modified to be used for other elections.
