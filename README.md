@@ -19,7 +19,7 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
 3. Which county had the largest  of votes?
    ![image](https://user-images.githubusercontent.com/102195803/163259840-0fc9d41a-b889-4f20-b43b-928047a1d17b.png)
    
-   **Dever was the county with 306,055 votes**
+   **Denver was the highest turnout county with 306,055 votes**
 4. Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   ![image](https://user-images.githubusercontent.com/102195803/163261710-8b9b313c-f1ae-4363-93e6-35d7c20f6743.png) 
   
@@ -30,4 +30,4 @@ The Client wants the Election results printed to the Comand Line and Saved to a 
     
 ## Election-Audit Summary: 
 We can conclude that the program we made for this problem can also be used for any vote count regardless of the position, since it only requires that the votes be stored in the same way as in this problem. As the program does not specify the position that is being chosen, we could ask the user to specify at the beginning the relevant information of the election, for example the position  and the year of election, and also we can specify the name and the location of the counting results file, in order that we can process it. 
-![] (ScriptModifiedAnyElection.png) 
+![](ScriptModifiedAnyElection.png) 
